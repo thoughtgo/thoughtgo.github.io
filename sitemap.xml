@@ -2,7 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2016/01/28/hello-world/</loc>
+    <loc>http://thoughtgo.github.io/tags/index.html</loc>
+    <lastmod>2016-01-28T07:09:31.031Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/about/index.html</loc>
+    <lastmod>2016-01-28T07:09:21.441Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/js/pc.js</loc>
+    <lastmod>2016-01-28T06:45:35.695Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/js/mobile.js</loc>
+    <lastmod>2016-01-28T06:45:35.694Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/js/main.js</loc>
+    <lastmod>2016-01-28T06:45:35.693Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/js/jquery.lazyload.js</loc>
+    <lastmod>2016-01-28T06:45:35.692Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/js/instagram.js</loc>
+    <lastmod>2016-01-28T06:45:35.691Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/js/clipboard.min.js</loc>
+    <lastmod>2016-01-28T06:45:35.691Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/js/GithubRepoWidget.js</loc>
+    <lastmod>2016-01-28T06:45:35.690Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/font-awesome/css/font-awesome.min.css</loc>
+    <lastmod>2016-01-28T06:45:35.654Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/font-awesome/css/font-awesome.css</loc>
+    <lastmod>2016-01-28T06:45:35.653Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/jquery.fancybox.pack.js</loc>
+    <lastmod>2016-01-28T06:45:35.651Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/jquery.fancybox.js</loc>
+    <lastmod>2016-01-28T06:45:35.650Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/jquery.fancybox.css</loc>
+    <lastmod>2016-01-28T06:45:35.649Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/helpers/jquery.fancybox-thumbs.js</loc>
+    <lastmod>2016-01-28T06:45:35.648Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/helpers/jquery.fancybox-thumbs.css</loc>
+    <lastmod>2016-01-28T06:45:35.647Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/helpers/jquery.fancybox-media.js</loc>
+    <lastmod>2016-01-28T06:45:35.646Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/helpers/jquery.fancybox-buttons.js</loc>
+    <lastmod>2016-01-28T06:45:35.645Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/fancybox/helpers/jquery.fancybox-buttons.css</loc>
+    <lastmod>2016-01-28T06:45:35.643Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/css/style.css</loc>
+    <lastmod>2016-01-28T06:45:35.635Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thoughtgo.github.io/2016/01/28/hello-world/</loc>
     <lastmod>2016-01-28T05:36:33.214Z</lastmod>
   </url>
   
